@@ -1,0 +1,2 @@
+[console_scripts]
+KanhaMusic = KanhaMusic.__main__:main
