@@ -30,24 +30,6 @@ from KanhaMusic.utils.logger import play_logs
 from KanhaMusic.utils.stream.stream import stream
 from config import BANNED_USERS, lyrical
 
-EMOJII = [
-    "🔥",
-    "🩷",
-    "🥺",
-    "😒",
-    "💖",
-    "💘",
-    "💕",
-    "🙄",
-    "🧪",
-    "🥰",
-    "🚩",
-    "🫦",
-    "💔",
-    "🦠",
-    "😓",
-    "🫧",
-]
 
 
 async def delete_after_delay(msg):
